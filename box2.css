@@ -1,0 +1,31 @@
+.container{
+       display:flex;
+       justify-content: center;
+       gap:30px;
+       
+       
+}
+.card1,.card2,.card3{
+    width:300px;
+    height:400px;
+    border:10px solid black; 
+    border-radius: 10px;   
+}
+.image{
+    width:100%;
+    
+}
+.details{
+    text-align: center;
+    padding:10px 20px;
+}
+.h3{
+    text-align: center;
+}
+.btn{
+    padding:8px 15px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
